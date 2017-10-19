@@ -1,0 +1,2 @@
+# vowelOfDiggit
+dataTypeAndVariablesExer2
